@@ -28,5 +28,10 @@
     "react-time-ago": "^7.2.1",
     "tailwindcss": "^3.2.2",
     "@types/react": "^18.2.14"
+  },
+  "browser": {
+    "fs": false,
+    "os": false,
+    "path": false
   }
 }
